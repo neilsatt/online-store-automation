@@ -30,6 +30,5 @@ describe('Home Page', function() {
         expect(slideshow).to.be.true;
     })
 
-
 })
 

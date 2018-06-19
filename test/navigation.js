@@ -21,6 +21,4 @@ describe('Navigating from home page', function() {
         expect(title).to.equal('Faded Short Sleeve T-shirts - My Store');  
     })
     
-
-
 })
